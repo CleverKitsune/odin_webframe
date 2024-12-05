@@ -1,0 +1,23 @@
+.flex-container {
+    border-style: dashed;
+    border-color: red;
+    flex: 1;
+    flex-direction: column;
+}
+
+.display {
+    border-style: dashed;
+    border-color: red;
+    flex: 1; 
+}
+
+#main-subtext {
+    width: 360px;
+    margin:auto
+}
+
+#main-title {
+    width: 250px;
+    margin: auto;
+    text-align: left;
+}
