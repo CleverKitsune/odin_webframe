@@ -1,0 +1,1 @@
+Hi! The purpose of this project is to see if I can recreate a webframe from the Odin Project! I'll be reusing what I know of basic HTML and will test my knowledge on the flexbox methodology!
