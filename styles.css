@@ -1,5 +1,8 @@
+* {
+    font-family: Roboto;
+}
+
 .flex-container {
-    margin: 15px;
     background-color: red;
 }
 
@@ -15,6 +18,10 @@
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+}
+
+.dark {
+    background-color: #1F2937;
 }
 
 .green {
