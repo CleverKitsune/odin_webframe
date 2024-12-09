@@ -6,6 +6,13 @@
     background-color: red;
 }
 
+#container-one {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 175px;
+    padding-right: 175px;
+}
+
 .row {
     display: flex;
     flex-direction: row;
@@ -18,6 +25,22 @@
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+}
+
+#logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    justify-content:left;
+}
+
+.links {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+#link-column {
+    align-content: center;
+
 }
 
 .dark {
